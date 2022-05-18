@@ -44,6 +44,7 @@ if (isset($_POST['submit'])) {
 
    <!-- custom css file link  -->
    <link rel="stylesheet" href="styles/main.css">
+   <link rel="stylesheet" href="styles/customers/register.css">
 
 </head>
 
@@ -65,7 +66,7 @@ if (isset($_POST['submit'])) {
    ?>
 
    <div class="form-container">
-      <form action="" method="post">
+      <form class="login_form" action="" method="post">
          <h3>register now</h3>
          <input type="text" name="name" placeholder="enter your name" required class="box">
          <input type="email" name="email" placeholder="enter your email" required class="box">
