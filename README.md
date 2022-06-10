@@ -3,12 +3,25 @@
     BOOKIST
 </h1>
 
+## Demo
 ![index](public/preview/index.png)
 ![login](public/preview/login.png)
 ![header](public/preview/header.png)
 ![home_product](public/preview/home_product.png)
 ![service](public/preview/service.png)
 ![footer](public/preview/footer.png)
+
+## Digram
+#### 1.usecase
+![image](https://user-images.githubusercontent.com/88624053/173003278-73ec06dc-320a-4eee-a096-4d2d45f55be1.png)
+#### 2.sequence
+![image](https://user-images.githubusercontent.com/88624053/173004108-ccb96439-9097-46ba-adca-2042ec74b715.png)
+![image](https://user-images.githubusercontent.com/88624053/173004244-3d131c6e-2d81-45bc-8302-3cb72e6fe2a1.png)
+![image](https://user-images.githubusercontent.com/88624053/173004259-5286d7f1-0e10-4886-8e19-2141de5fb906.png)
+#### 3.class
+![image](https://user-images.githubusercontent.com/88624053/173004602-f0a47875-d5b7-474f-a11e-f1a21576e79a.png)
+#### 4.Entities relationship
+![image](https://user-images.githubusercontent.com/88624053/173004669-7881944b-fca2-42cc-a0af-8dc8d98580c0.png)
 
 ## Reference
 + [checkout-template](https://www.bolt.com/thinkshop/checkout-page-best-practices-templates-examples-to-end-abandonment)
